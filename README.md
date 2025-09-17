@@ -1,5 +1,5 @@
 # Campus Nest - React Native Mobile App Architecture
-
+Original Idea by Marc
 ## Overview
 The Campus Nest React Native app will serve as the mobile companion to the web platform, providing students and hostel managers with a native mobile experience for hostel discovery and booking. The app will communicate with your FastAPI backend through REST APIs and offer optimized mobile UX for on-the-go hostel searching and booking management.
 
